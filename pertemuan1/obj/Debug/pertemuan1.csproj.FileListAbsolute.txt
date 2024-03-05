@@ -1,0 +1,7 @@
+E:\23.11.5629\pertemuan1\pertemuan1\bin\Debug\pertemuan1.exe.config
+E:\23.11.5629\pertemuan1\pertemuan1\bin\Debug\pertemuan1.exe
+E:\23.11.5629\pertemuan1\pertemuan1\bin\Debug\pertemuan1.pdb
+E:\23.11.5629\pertemuan1\pertemuan1\obj\Debug\pertemuan1.csproj.AssemblyReference.cache
+E:\23.11.5629\pertemuan1\pertemuan1\obj\Debug\pertemuan1.csproj.CoreCompileInputs.cache
+E:\23.11.5629\pertemuan1\pertemuan1\obj\Debug\pertemuan1.exe
+E:\23.11.5629\pertemuan1\pertemuan1\obj\Debug\pertemuan1.pdb
